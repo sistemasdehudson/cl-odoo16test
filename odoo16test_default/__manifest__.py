@@ -19,7 +19,7 @@
 ##############################################################################
 
 {
-    "name": "test16",
+    "name": "odoo16test",
     "version": "16.0.1.0.0",
     "category": "Tools",
     "summary": "Test for v16 CE",
@@ -39,7 +39,7 @@
     ],
     "port": "8070",
     "git-repos": [
-        "https://github.com/jobiols/cl-test.git",
+        "https://github.com/sistemasdehudson/cl-odoo16test.git",
         #'git@github.com:jobiols/odoo-jeo-ce.git',
     ],
     # list of images to use in the form 'name image-url'
