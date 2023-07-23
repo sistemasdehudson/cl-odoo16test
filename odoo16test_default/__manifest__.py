@@ -37,7 +37,7 @@
         "workers = 0",
         "admin_password = admin",
     ],
-    "port": "8069",
+    "port": "8070",
     "git-repos": [
         "https://github.com/jobiols/cl-test.git",
         #'git@github.com:jobiols/odoo-jeo-ce.git',
