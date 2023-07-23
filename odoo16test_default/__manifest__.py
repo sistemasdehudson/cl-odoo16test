@@ -40,6 +40,7 @@
     "port": "8070",
     "git-repos": [
         "https://github.com/sistemasdehudson/cl-odoo16test.git",
+        "https://github.com/CybroOdoo/CybroAddons.git",
         #'git@github.com:jobiols/odoo-jeo-ce.git',
     ],
     # list of images to use in the form 'name image-url'
