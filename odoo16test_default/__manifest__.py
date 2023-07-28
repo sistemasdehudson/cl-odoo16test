@@ -42,6 +42,7 @@
         "https://github.com/sistemasdehudson/cl-odoo16test.git",
         "https://github.com/CybroOdoo/CybroAddons.git",
         #'git@github.com:jobiols/odoo-jeo-ce.git',
+        'https://github.com/EmAMaz/module-odoo.git',
     ],
     # list of images to use in the form 'name image-url'
     "docker-images": [
